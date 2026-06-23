@@ -1,7 +1,7 @@
 {
-  "name": "rowifi-api",
+  "name": "rowifi.js",
   "version": "1.0.0",
-  "description": "An npm module that allows you to easily communicate with the RoWifi API.",
+  "description": "An npm module that allows you to easily communicate with the RoWifi API v3.",
   "main": "index.js",
   "keywords": [
     "rowifi",
@@ -11,7 +11,7 @@
     "wrapper"
   ],
   "author": "GigaStorm24",
-  "license": "MIT",
+  "license": "ISC",
   "type": "module",
   "repository": {
     "type": "git",
