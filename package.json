@@ -1,0 +1,16 @@
+{
+  "name": "rowifi-api",
+  "version": "1.0.0",
+  "description": "An npm module that allows you to easily communicate with the RoWifi API.",
+  "main": "index.js",
+  "keywords": [
+    "rowifi",
+    "roblox",
+    "discord",
+    "api",
+    "wrapper"
+  ],
+  "author": "GigaStorm24",
+  "license": "MIT",
+  "type": "module"
+}
