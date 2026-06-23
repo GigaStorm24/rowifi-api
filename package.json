@@ -12,5 +12,9 @@
   ],
   "author": "GigaStorm24",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GigaStorm24/rowifi-api.git"
+  }
 }
